@@ -16,9 +16,9 @@ To be able to view the tests i wrote you need to open this website offline, sinc
 
 ## Code dependencies
 <ul>
-<li><a href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,700">Google fonts</a></li>
+<li>Jasmine 2.1.2</li>
+<li><a href="http://google.com/jsapi">http://google.com/jsapi</a></li>
 <li><a href="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">jquery 2.1.1</a></li>
 <li><a href="http://cdn.jsdelivr.net/handlebarsjs/2.0.0/handlebars.min.js">http://cdn.jsdelivr.net/handlebarsjs/2.0.0/handlebars.min.js</a></li>
-<li><a href="http://google.com/jsapi">http://google.com/jsapi</a></li>
-<li>Jasmine 2.1.2</li>
+<li><a href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,700">Google fonts</a></li>
 </ul>
