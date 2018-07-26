@@ -1,7 +1,7 @@
 # Frontend Nanodegree Feedreader Testing
 
 This project is based on the frontend-nanodegree-feedreader app which can be found in <a href="https://github.com/udacity/frontend-nanodegree-feedreader">this github repository</a>.
-The task at hand was to write unit tests for the provided app, to ensure that some parts run as expected. The code herefore can be found in jasmine/spec/feedreader.js.
+The task at hand was to write unit tests for the provided app, to ensure that some parts run as expected. My test code herefore can be found in jasmine/spec/feedreader.js.
 
 ## How to run
 
