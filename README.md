@@ -10,7 +10,7 @@ To be able to view the tests i wrote you need to open this website offline, sinc
 <ol>
 <li> Navigate to your github directory. If you don't have one, create a new directory of your choice.</li>
 <li> Navigate into that directory with a command line interface (cli) or command terminal.</li>
-<li> Now type following command: ```git clone https://github.com/circular-code/frontend-nanodegree-feedreader.git``` the project files should now be available to you in your newly created folder.</li>
+<li> Now type following command: "git clone https://github.com/circular-code/frontend-nanodegree-feedreader.git" the project files should now be available to you in your newly created folder.</li>
 <li> Open the <em>index.html</em> file with your favorite modern browser to view the test results.</li>
 </ol>
 
